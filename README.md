@@ -1,6 +1,6 @@
-## Hegram
+## Wetchgram
 
-Hegram - Hegram is a powerful Python library for creating Telegram bots with a clean and intuitive API, tools.
+Wetchgram is a powerful Python library for creating Telegram bots with a clean and intuitive API, tools.
 
 ## Proxy
 
@@ -9,7 +9,7 @@ We use proxy for anonymous requests, and starting the script from another locati
 ## Installation
 
 ```
-1. git clone github.com/metelity/hegram
+1. git clone github.com/metelity/wetchgram
 2. cd hegram
 3. python install.py
 ```
