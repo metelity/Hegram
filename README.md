@@ -10,6 +10,6 @@ We use proxy for anonymous requests, and starting the script from another locati
 
 ```
 1. git clone github.com/metelity/wetchgram
-2. cd hegram
+2. cd wetchgram
 3. python install.py
 ```
