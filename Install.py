@@ -1,1 +1,1 @@
-import os; os.system("cls|clear"); os.system("python3 -m pip uninstall hegram"); os.system("cls|clear"); os.system("python3 -m pip cache purge"); os.system("cls|clear"); os.system("python3 -m pip install ."); os.system("cls|clear"); print("[!] Hegram installed!")
+import os; os.system("cls|clear"); os.system("python3 -m pip uninstall wetchgram"); os.system("cls|clear"); os.system("python3 -m pip cache purge"); os.system("cls|clear"); os.system("python3 -m pip install ."); os.system("cls|clear"); print("[!] Wetchgram installed!")
