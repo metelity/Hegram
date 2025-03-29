@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name="wetchgram",
-    version="1.0.0",
+    version="1.5.0",
     description="Telegram bot api via requests",
     url="https://github.com/metelity/wetchgram",
     author="metelity",
